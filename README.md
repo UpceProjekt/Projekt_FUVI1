@@ -56,11 +56,11 @@ Systém může generovat odpovědi na základě textu, ale není schopen provád
 
 ## 6. Budoucnost projektu
 
-###Jak by mohl váš projekt růst a dále se rozvíjet?
+### Jak by mohl váš projekt růst a dále se rozvíjet?
 
 Projekt může růst tím, že bude přidávat více funkcí, jako je možnost zpracování zdravotní historie uživatele, přizpůsobení odpovědí na základě konkrétních zdravotních podmínek nebo integrace s elektronickými zdravotními záznamy.
 
-###Škálovatelnost?
+### Škálovatelnost?
 
 Projekt je škálovatelný a může být rozšířen o další jazyky, různé lékařské specializace a integrovat data z dalších nemocnic nebo veřejně dostupných zdravotních databází.
 
