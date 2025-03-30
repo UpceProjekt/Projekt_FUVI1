@@ -66,7 +66,7 @@ Projekt je škálovatelný a může být rozšířen o další jazyky, různé l
 
 ## 7. Poděkování a zdroje
 
-###Zdroje, autoři, inspirace
+### Zdroje, autoři, inspirace
 
 - **Vlastní nemoc a online pomoc. 
 - **OpenAI ChatGPT - pro pomoc generování kodů a textů.
