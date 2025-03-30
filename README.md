@@ -68,6 +68,6 @@ Projekt je škálovatelný a může být rozšířen o další jazyky, různé l
 
 ### Zdroje, autoři, inspirace
 
-- **Vlastní nemoc a online pomoc. 
-- **OpenAI ChatGPT - pro pomoc generování kodů a textů.
-- **https://github.com/Cairhiin/AI-idea - projekt inspirační
+- Vlastní nemoc a online pomoc. 
+- OpenAI ChatGPT - pro pomoc generování kodů a textů.
+- https://github.com/Cairhiin/AI-idea - projekt inspirační
