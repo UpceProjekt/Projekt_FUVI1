@@ -8,7 +8,7 @@
 
 ### Jaký problém řeší?
 
-Mnoho lidí se obrací na internet s dotazy týkajícími se jejich zdravotního stavu, což vede k neodborné autodiagnostice. **AI Health Assistant** poskytne relevantní a spolehlivé informace, čímž pomůže minimalizovat šíření dezinformací.
+Mnoho lidí se obrací na internet s dotazy týkajícími se jejich zdravotního stavu, což vede většinou k nepravdivým výrokům. **AI Health Assistant** poskytne relevantní a spolehlivé informace, čímž pomůže minimalizovat šíření dezinformací.
 
 ### Jak častý nebo významný je tento problém?
 
